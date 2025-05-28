@@ -59,3 +59,4 @@ The application is initialized with the following sample data:
 The candidate will be asked to implement the logic for the price endpoint, which should:
 1. Filter prices by country and optionally by product
 2. Return the appropriate price based on the user type (regular or manager)
+3. Secure the API using Basic Auth.
